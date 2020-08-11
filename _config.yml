@@ -59,7 +59,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: https://orcid.org/0000-0002-8824-5269 
+   ORCID: https://orcid.org/0000-0002-8824-5269 
 #  google-scholar: your google scholar
 
 # --- General options --- #
