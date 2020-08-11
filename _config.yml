@@ -12,8 +12,8 @@ author: William Jiménez-Leal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Investigación: "research"
-  Publicaciones: "publications"
+  #Investigación: "research"
+  #Publicaciones: "publications"
   Contacto: "aboutme"
   Personal y Recursos:
     - Uniandes: "https://uniandes.edu.co"
