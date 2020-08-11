@@ -1,6 +1,5 @@
-
 ---
 layout: page
-title: Publicaciones
+subtitle: Publicaciones 
 ---
 En construccion
