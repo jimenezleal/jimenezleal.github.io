@@ -40,7 +40,6 @@ round-avatar: false
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "w.jimenezleal@uniandes.edu.co"
-#  facebook: deanattali
   github: labcogno
   twitter: jimenezzleal
   rss: true
