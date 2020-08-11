@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Sitio Web Personal 
+title: William Jiménez Leal 
 
 # Short description of your site
 description: Sitio Web de William Jimenez
@@ -12,11 +12,10 @@ author: William Jiménez-Leal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Quién soy: "aboutme"
   Investigación: "research"
   Publicaciones: "publications"
-  Blog: "blog"
-  Recursos:
+  Contacto: "aboutme"
+  Personal y Recursos:
     - Uniandes: "https://uniandes.edu.co"
     - Learn markdown: "https://www.markdowntutorial.com/"
  
