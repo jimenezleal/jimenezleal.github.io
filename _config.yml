@@ -19,7 +19,7 @@ navbar-links:
   Recursos:
     - Uniandes: "https://uniandes.edu.co"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://jimenezleal.github.io"
+ 
 
 # --- Logo --- #
 
@@ -43,7 +43,7 @@ round-avatar: true
 social-network-links:
   email: "w.jimenezleal@uniandes.edu.co"
 #  facebook: deanattali
-  github: labcongno
+  github: labcogno
   twitter: jimenezzleal
   rss: true
 #  reddit: yourname
