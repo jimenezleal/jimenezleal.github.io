@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Enseñanza en pandemia
+subtitle: Cosas que pueden ser utiles
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
+Estas son algunas de las herramientas por las que me he decidido en el inevitable paso a la virtualización
 **Here is some bold text**
 
 ## Here is a secondary heading
