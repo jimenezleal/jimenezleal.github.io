@@ -38,9 +38,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  # email: "w.jimenezleal@uniandes.edu.co"
-  # github: labcogno
-  # twitter: jimenezzleal
+  email: "w.jimenezleal@uniandes.edu.co"
+  github: labcogno
+  twitter: jimenezzleal
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -57,7 +57,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-   ORCID: orcid.org/0000-0002-8824-5269 
+   ORCID: "https://orcid.org/0000-0002-8824-5269" 
 #  google-scholar: your google scholar
 
 # --- General options --- #
