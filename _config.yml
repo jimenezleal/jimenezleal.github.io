@@ -15,7 +15,7 @@ navbar-links:
   Investigación: "research"
   Publicaciones: "publications"
   Contacto: "aboutme"
-  Personal/Recursos:
+  Personal_Recursos:
     - Uniandes: "https://uniandes.edu.co"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
