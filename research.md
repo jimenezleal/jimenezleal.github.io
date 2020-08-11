@@ -1,4 +1,6 @@
 ---
-Investigación
+layout: page
+title: Investigacion
 ---
-En construcción
+
+En construccion
