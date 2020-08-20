@@ -15,9 +15,9 @@ navbar-links:
   Investigación: "research"
   Publicaciones: "publications"
   Contacto: "aboutme"
-  Personal_Recursos: 
+  Recursos y Personal: 
     - Uniandes: "https://uniandes.edu.co"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Otros: "http://zoomquilt.org/"
 
 # --- Logo --- #
 
