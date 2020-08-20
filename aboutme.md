@@ -4,7 +4,15 @@ title: Quien soy
 subtitle: 
 ---
 
-Soy profesor asociado del Departamento de Psicología de la Universidad de los Andes, en Bogotá, Colombia.
-### my history
+Soy profesor asociado del Departamento de Psicología de la Universidad de los Andes, en Bogotá, Colombia. Pueden contactarme asi 
 
-ing some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+e: w.jimenezleal@uniandes.edu.co
+t: @jimenezzzleal
+t: +571 33394999 Ext 2547
+s: Departamento de Psicología
+   Edificio Franco
+   Universidad de los Andes 
+   Bogotá, Colombia
+   111311
+
+
