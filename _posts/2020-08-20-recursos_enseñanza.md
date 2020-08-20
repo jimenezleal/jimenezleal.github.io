@@ -20,7 +20,7 @@ Definitivamente [Perusall](https://perusall.com/)! Esta herramienta me permite s
 
 ### Quices, sondeos y foros
 
-No me gustan muchos los foros, pero pienso hacer un par en [Piazza](https://piazza.com/) principalmente por lo sencillo que es hacer foros anonimos. Para quices y sondeos interactivos [Menti](https://www.mentimeter.com/) y [Kahoot](https://kahoot.com/) están muy bien aunque me gustaría probar en algún momento [polleverywhere]((https://www.polleverywhere.com/).  
+No me gustan muchos los foros, pero pienso hacer un par en [Piazza](https://piazza.com/) principalmente por lo sencillo que es hacer foros anonimos. Para quices y sondeos interactivos [Menti](https://www.mentimeter.com/) y [Kahoot](https://kahoot.com/) están muy bien aunque me gustaría probar en algún momento [polleverywhere](https://www.polleverywhere.com/).  
 
 Para encuestas más estructuradas utilizo [qualtrics](https://www.qualtrics.com/) y [typeform](https://www.typeform.com/)
 
