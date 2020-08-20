@@ -7,7 +7,7 @@ tags: [enseñanza]
 comments: true
 ---
 
-Hay algo paradódico de la enseñanza en medio de la pandemia para los profesores: sabemos que es imposible volverse un educador virtual de la noche a la mañana ni adquirir experticia en este modo de trabajo en tan poco tiempo pero también queremos hacer las cosas bien. Sabemos que estamos haciendo lo mejor que podemos sin ser nativos digitales ni expertos en tecnología, pero queremos hacerlo mejor. Han pasado así semanas de muchas exploraciones autodidactas con herramientas para hacer las clase mejor.  
+Hay algo paradójico de la enseñanza en medio de la pandemia para los profesores: sabemos que es imposible volverse un educador virtual de la noche a la mañana ni adquirir experticia en este modo de trabajo en tan poco tiempo pero también queremos hacer las cosas bien. Sabemos que estamos haciendo lo mejor que podemos sin ser nativos digitales ni expertos en tecnología, pero queremos hacerlo mejor. Han pasado así semanas de muchas exploraciones autodidactas con herramientas para hacer las clase mejor.  
 Hay muchos y muy buenos recursos en línea, como la página de [virtualidad de la Universidad de los Andes](https://virtualidad.uniandes.edu.co/) o las recomendaciones de la [Universidad de Standford](https://docs.google.com/document/d/1ccsudB2vwZ_GJYoKlFzGbtnmftGcXwCIwxzf-jkkoCU/). La verdad es que estos recursos, aunque tremendamente útiles, son abrumadores. Presento aquí un resumen de mis excursiones y conclusiones despues de probar muchas herramients 
 
 
@@ -19,6 +19,6 @@ Para las clases sincrónicas definitivamente me quedo con [Zoom](https://zoom.us
 ### Lecturas 
 Definitivamente [Perusall](https://perusall.com/)! Esta herramienta me permite subir los pdfs de las lecturas a un espacio unificado donde puedo ver las dudas que tienen los estudiantes y, lo mejor, ver las conversaciones que surgen entre ellos sobre elementos interesantes. Una buena alternativa es [nb](https://nb.mit.edu/welcome) que tiene la misma funcionalidad. Sin embargo, me quedé con Perusall porque es muy fácil de integrar con Brightspace y Blackboard, los LSMs que uso.
 
-### Quices y sondeos
+### Quices, sondeos y foros
 
-No [Piazza]
+No me gustan muchos los foros, pero pienso hacer un par en [Piazza](https://piazza.com/) principalmente por lo sencillo que es hacer foros anonimos. Para quices y sondeos interactivos [Menti](https://www.mentimeter.com/) y [Kahoot](https://kahoot.com/) están muy bien aunque me gustaría probar en algún momento [polleverywhere]((https://www.polleverywhere.com/). 
