@@ -6,7 +6,7 @@ subtitle: nada
 
 
 ### En preparación
-Ordóñez Pinilla, C. & Jiménez-Leal, W. Watching the Watchmen - Why Vigilance Fails as a Cognitive Explanation of Honest and Dishonest Behavior (2020). Available at SSRN: https://ssrn.com/abstract=id=3676754 
+Ordóñez Pinilla, C. & <ins>Jiménez-Leal</ins>, W. Watching the Watchmen - Why Vigilance Fails as a Cognitive Explanation of Honest and Dishonest Behavior (2020). Available at SSRN: https://ssrn.com/abstract=id=3676754 
 
 ### En revisión/Preprints
 Jimenez-Leal, W., Murray, S., Amaya, S., & Barbosa, S. (2020, February 25). Beyond good and bad: Varieties of moral judgment. https://doi.org/10.31234/osf.io/qb2uv 
