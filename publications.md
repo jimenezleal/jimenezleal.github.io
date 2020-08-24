@@ -1,7 +1,10 @@
 ---
 layout: page
-subtitle: Publicaciones 
+title: Publicaciones 
+subtitle: nada
 ---
+
+
 ### En preparación
 Ordóñez Pinilla, C. & Jiménez-Leal, W. Watching the Watchmen - Why Vigilance Fails as a Cognitive Explanation of Honest and Dishonest Behavior (2020). Available at SSRN: https://ssrn.com/abstract=id=3676754 
 
