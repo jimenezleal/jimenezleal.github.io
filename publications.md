@@ -13,10 +13,10 @@ Ordóñez Pinilla, C. & <ins>Jiménez-Leal, W.</ins> Watching the Watchmen - Why
 
 Montealegre, A., Bush, L., Moss, D., Pizarro, D., & <ins>Jiménez-Leal, W</ins>, W. (2020, April 11). Does Maximizing Good Make People Look Bad?. https://doi.org/10.31234/osf.io/2zbax
 
-Gantiva, C., <ins>Jiménez-Leal, W</ins>, & Urriago-Rayo, J. Diseño Framing Messages to Deal with the COVID-19 Crisis: The Role of Loss/Gain Frames and Content.
+Gantiva, C., <ins>Jiménez-Leal, W</ins>, & Urriago-Rayo, J. Framing Messages to Deal with the COVID-19 Crisis: The Role of Loss/Gain Frames and Content.
 
 ### 2020
-Skorb, L., Aczel, B., Bakos, B. E., Feinberg, L., Hałasa, E., Kauff, M., <ins>Jiménez-Leal, W</ins>. others. (2019). Many Labs 5: Replication of Van Dijk, Van Kleef, Steinel, & Van Beest (2008). A social functional approach to emotions in bargaining. Manuscrito aceptado para publicación
+Skorb, L., Aczel, B., Bakos, B. E., Feinberg, L., Hałasa, E., Kauff, M., <ins>Jiménez-Leal, W</ins>, Muda. R., Nave,János S., Schultze, T., & Hartshorne, J. others. (2020). Many Labs 5: Replication of Van Dijk, Van Kleef, Steinel, & Van Beest (2008). A social functional approach to emotions in bargaining. _Advances in Methods and Practices in Psychological Science_,  Manuscrito aceptado para publicación
 
 Landy, J., Jia, M., Ding, I.,Viganola, D., Tierney,W.,Dreber, A., Magnus, T.,Ebersole, C., Gronau, Q., Ly, A., van den Bergh, D., Marsman, M., Derks, K., Wagenmakers, E, Proctor, A., Bartels, D, Bauman, C., Brady, W., Cheung, F., Cimpian, A., Dohle, S., Donnellan, M., Hahn, A., Hall, M., <ins>Jiménez-Leal, W.</ins>, Johnson, D., Lucas, R., Monin, B., Montealegre, A., Mullen, E., Pang, J., Ray, J., Reinero, D., Reynolds, J., Sowden, W., Storage, D., Su, R., Tworek, C., Van Bavel, J., Walco, D., Wills, C.,  Xu, X., Yam, K., Yang, X., Cunningham, W., Schweinsberg, M., Urwitz, M., Uhlmann, E L. (2020). Crowdsourcing hypothesis tests: Making transparent how design choices shape research results. _Psychological Bulletin_. Vol 146 (5) pp. 451 - 479
 
@@ -34,8 +34,6 @@ Barbosa-De-la-Torre, S., <ins>Jiménez-Leal, W.</ins>, Caicedo-Mera, J. C., Mart
 Naismith, I., Ferro, C. D., Ingram, G., & <ins>Jiménez-Leal, W.</ins> (2019). Compassion-focused imagery reduces shame and is moderated by shame, self-reassurance and multisensory imagery vividness. _Research in Psychotherapy: Psychopathology, Process and Outcome_, 22(1).
 
 ### 2018 
-
-
 Estévez-Mujica, C. P., Acero, A., <ins>Jiménez-Leal, W.</ins>, & Garcia-Diaz, C. (2018). The Influence of Homophilous Interactions on Diversity Effects in Group Problem-Solving. _Nonlinear dynamics, psychology, and life sciences_, 22(1), 77-102.
 
 <ins>Jiménez-Leal, W.</ins>, Gaviria C. (2018) "Inferencias integradas: los desafíos de la psicología del razonamiento en el siglo XXI", En Gutierrez, G (Ed). _Teorías en Psicología. Integración y el futuro de la disciplina_. Bogotá: Manual Moderno. 
@@ -47,13 +45,11 @@ Klein, RA., Vianello, M., Hasselman, F., Adams, BG., Adams, RB., Alper, S., Avey
 Barbosa, S., & <ins>Jiménez-Leal, W.</ins> (2017). It’s not right but it’s permitted: Wording effects in moral judgement. _Judgment and Decision Making_, 12(3), 308–313.
 
 ### 2016
-
 Reali, F., <ins>Jiménez-Leal, W.</ins>, Maldonado-Carreño, C., Devine, A., & Szücs, D. (2016). Examining the link between math anxiety and math performance in Colombian students. Revista Colombiana de Psicología, 25(2), 369-379.
 
 Cortés Gómez, C. E., <ins>Jiménez-Leal, W.</ins>, & Finck, C. (2016). Effects of secularisation on the psychometric properties of the Post Critical Belief Scale. Mental Health, Religion & Culture, 19(8), 868-882.
 
 ### 2015
-
 <ins>Jiménez-Leal, W.</ins>, Gaviria C. (2015) El desarrollo y el aprendizaje del razonamiento causal: análisis de una tensión aparente [Development and learning of causal reasoning: an analysis of shallow tension]. Universitas Psychologica 
 
 ### 2014
