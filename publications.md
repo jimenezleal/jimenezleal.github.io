@@ -29,7 +29,7 @@ Montealegre, A., & <ins>Jiménez-Leal, W.</ins> (2019). The role of trust in the
 
 Salcedo, J. C., & <ins>Jiménez-Leal, W.</ins> (2019). So, it’s pricier than before, but why? Price increase justifications influence risky decision making and emotional response. _Frontiers in Psychology_, 10, 1883.
 
-Barbosa-De-la-Torre, S., <ins>Jiménez-Leal, W.</ins>, Caicedo-Mera, J. C., Martínez-Cotrina, J., & Aponte-Canencio, D. (2019). _Categorización Emocional de las Imágenes del Sistema Internacional de Imágenes Afectivas en una Muestra Colombiana_. Psykhe (Santiago), 28(1), 1–12.
+Barbosa-De-la-Torre, S., <ins>Jiménez-Leal, W.</ins>, Caicedo-Mera, J. C., Martínez-Cotrina, J., & Aponte-Canencio, D. (2019). Categorización Emocional de las Imágenes del Sistema Internacional de Imágenes Afectivas en una Muestra Colombiana. _Psykhe_ (Santiago), 28(1), 1–12.
 
 Naismith, I., Ferro, C. D., Ingram, G., & <ins>Jiménez-Leal, W.</ins> (2019). Compassion-focused imagery reduces shame and is moderated by shame, self-reassurance and multisensory imagery vividness. _Research in Psychotherapy: Psychopathology, Process and Outcome_, 22(1).
 
@@ -45,38 +45,38 @@ Klein, RA., Vianello, M., Hasselman, F., Adams, BG., Adams, RB., Alper, S., Avey
 Barbosa, S., & <ins>Jiménez-Leal, W.</ins> (2017). It’s not right but it’s permitted: Wording effects in moral judgement. _Judgment and Decision Making_, 12(3), 308–313.
 
 ### 2016
-Reali, F., <ins>Jiménez-Leal, W.</ins>, Maldonado-Carreño, C., Devine, A., & Szücs, D. (2016). Examining the link between math anxiety and math performance in Colombian students. Revista Colombiana de Psicología, 25(2), 369-379.
+Reali, F., <ins>Jiménez-Leal, W.</ins>, Maldonado-Carreño, C., Devine, A., & Szücs, D. (2016). Examining the link between math anxiety and math performance in Colombian students. _Revista Colombiana de Psicología_, 25(2), 369-379.
 
-Cortés Gómez, C. E., <ins>Jiménez-Leal, W.</ins>, & Finck, C. (2016). Effects of secularisation on the psychometric properties of the Post Critical Belief Scale. Mental Health, Religion & Culture, 19(8), 868-882.
+Cortés Gómez, C. E., <ins>Jiménez-Leal, W.</ins>, & Finck, C. (2016). Effects of secularisation on the psychometric properties of the Post Critical Belief Scale. _Mental Health, Religion & Culture_, 19(8), 868-882.
 
 ### 2015
-<ins>Jiménez-Leal, W.</ins>, Gaviria C. (2015) El desarrollo y el aprendizaje del razonamiento causal: análisis de una tensión aparente [Development and learning of causal reasoning: an analysis of shallow tension]. Universitas Psychologica 
+<ins>Jiménez-Leal, W.</ins>, Gaviria C. (2015) El desarrollo y el aprendizaje del razonamiento causal: análisis de una tensión aparente [Development and learning of causal reasoning: an analysis of shallow tension]. _Universitas Psychologica_ 
 
 ### 2014
-Kocalevent R, Finck C, <ins>Jiménez-Leal, W.</ins>, Sautier L, Hinz A. (2014) Standardization of the Colombian version of the PHQ-4 in the general population . BMC Psychiatry
+Kocalevent R, Finck C, <ins>Jiménez-Leal, W.</ins>, Sautier L, Hinz A. (2014) Standardization of the Colombian version of the PHQ-4 in the general population. _BMC Psychiatry_
 
-Han J, <ins>Jiménez-Leal, W.</ins>, Sloman S. (2014) Conditions for backtracking with counterfactual conditionals. Proceedings of the 36th Annual Meeting of the Cognitive Science Society.
+Han J, <ins>Jiménez-Leal, W.</ins>, Sloman S. (2014) Conditions for backtracking with counterfactual conditionals. _Proceedings of the 36th Annual Meeting of the Cognitive Science Society_.
 
-Gaviria, C, <ins>Jiménez-Leal, W.</ins> (2014) Coherence and argument structure: An empirical comparison between plausible reasoning and the Bayesian approach to argumentation. Proceedings of the 36th Annual Meeting of the Cognitive Science Society
+Gaviria, C, <ins>Jiménez-Leal, W.</ins> (2014) Coherence and argument structure: An empirical comparison between plausible reasoning and the Bayesian approach to argumentation. _Proceedings of the 36th Annual Meeting of the Cognitive Science Society_
 
-Gaviria C, <ins>Jiménez-Leal, W.</ins> (2014) Encuentros cercanos con argumentos del ʻtercer tipoʼ: Razonamiento plausible y probabilidad subjetiva como modelos de evaluación de argumentos. Crítica. Revista hispanoamericana de filosofía  46 (2), pp. 85-112.
+Gaviria C, <ins>Jiménez-Leal, W.</ins> (2014) Encuentros cercanos con argumentos del ʻtercer tipoʼ: Razonamiento plausible y probabilidad subjetiva como modelos de evaluación de argumentos. _Crítica. Revista hispanoamericana de filosofía_  46 (2), pp. 85-112.
 
 ### 2013
-Ramírez D, <ins>Jiménez-Leal, W.</ins> (2013) Percepción de riesgo y compras por internet: su relación con la personalidad y el tipo de producto. Suma Psicológica 20 (1), pp. 147-167.
+Ramírez D, <ins>Jiménez-Leal, W.</ins> (2013) Percepción de riesgo y compras por internet: su relación con la personalidad y el tipo de producto. _Suma Psicológica_ 20 (1), pp. 147-167.
 
-<ins>Jiménez-Leal, W.</ins> (2013) Causal selection and Counterfactual Reasoning. Revista Colombiana de Psicología. 22 (1), pp. 179-197.
+<ins>Jiménez-Leal, W.</ins> (2013) Causal selection and Counterfactual Reasoning. _Revista Colombiana de Psicología_. 22 (1), pp. 179-197.
 
-<ins>Jiménez-Leal, W.</ins>, Gaviria C. (2013) Causality, Similarity and Argumentation. Proceedings of the 35th Annual Meeting of the Cognitive Science Society. pp. 2656-2661. Cognitive Science Society
+<ins>Jiménez-Leal, W.</ins>, Gaviria C. (2013) Causality, Similarity and Argumentation. _Proceedings of the 35th Annual Meeting of the Cognitive Science Society. pp. 2656-2661. Cognitive Science Society_
 
-<ins>Jiménez-Leal, W.</ins>, Gaviria C, Zea A. (2013) El papel de la similitud causal en la argumentación: el caso de la falacia de la pendiente resbaladiza. COGENCY Journal of Reasoning and Argumentation 5 (1), pp. 61-84.
+<ins>Jiménez-Leal, W.</ins>, Gaviria C, Zea A. (2013) El papel de la similitud causal en la argumentación: el caso de la falacia de la pendiente resbaladiza. _COGENCY Journal of Reasoning and Argumentation_ 5 (1), pp. 61-84.
 
-Zenger M, Zanon C, Finck C, <ins>Jiménez-Leal, W.</ins>, Singer S, Hinz A. (2013) Evaluation of the Latin American version of the Life Orientation Test-Revised. International Journal of Clinical and Health Psychology (ISSN 1697-2600) 13 (1), pp. 243-252.
+Zenger M, Zanon C, Finck C, <ins>Jiménez-Leal, W.</ins>, Singer S, Hinz A. (2013) Evaluation of the Latin American version of the Life Orientation Test-Revised. _International Journal of Clinical and Health Psychology_ (ISSN 1697-2600) 13 (1), pp. 243-252.
 
 ### 2011 y anteriores
 
-Corredor J, <ins>Jiménez-Leal, W.</ins>. (2011) La Modularidad y la Realidad de los Procesos Psicológicos. Revista Colombiana de Psicología
+Corredor J, <ins>Jiménez-Leal, W.</ins>. (2011) La Modularidad y la Realidad de los Procesos Psicológicos. _Revista Colombiana de Psicología_
 
-<ins>Jiménez-Leal, W.</ins>, & Chater, N. (2008) The relationship between causal and counterfactual reasoning. Proceedings of the 309h Cognitive Science Society Annual Meeting. Washington D.C.
+<ins>Jiménez-Leal, W.</ins>, & Chater, N. (2008) The relationship between causal and counterfactual reasoning. _Proceedings of the 309h Cognitive Science Society Annual Meeting_. Washington D.C.
 
 <ins>Jiménez-Leal, W.</ins>, & Chater, N. (2007) Reasoning with Probabilistic Factual and Counterfactual Conditionals. Proceedings of the 299h Cognitive Science Society Annual Meeting p. 1779. Nashville, TN
 
