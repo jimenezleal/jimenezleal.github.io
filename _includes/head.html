@@ -8,6 +8,18 @@
   <meta name="author" content="{{ site.author }}">
   {% endif %}
 
+{% if page.layout != 'index' %}
+  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% endif %}
+  {% if posts.size > 1 %}
+    {% for post in posts %}
+  <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
+    {% endfor %}
+  {% endif %}
+{% endif %}  
+  
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">
   {% elsif page.subtitle %}
