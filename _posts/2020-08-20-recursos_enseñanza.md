@@ -2,6 +2,8 @@
 layout: post
 title: Enseñanza en pandemia
 subtitle: Algunas herramientas que uso ahora
+lang: es
+lang-ref: teaching
 gh-badge: [star, fork, follow]
 tags: [enseñanza]
 comments: true
