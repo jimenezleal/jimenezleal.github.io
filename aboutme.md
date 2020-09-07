@@ -4,7 +4,7 @@ title: Quien soy
 subtitle: 
 ---
 
-Soy profesor asociado del Departamento de Psicología de la Universidad de los Andes, en Bogotá, Colombia. Pueden contactarme asi 
+Profesor asociado del Departamento de Psicología de la Universidad de los Andes, en Bogotá, Colombia. Pueden contactarme asi 
 
 e: w.jimenezleal@uniandes.edu.co  
 
