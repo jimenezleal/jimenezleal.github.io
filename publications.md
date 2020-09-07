@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publicaciones 
-subtitle: nada
+title: --
+subtitle: Publicaciones
 ---
 
 
